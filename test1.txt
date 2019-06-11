@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 683F-DE3A
+
+ Directory of C:\Users\Saravi\Desktop\NewProject
+
+11-06-2019  11:34    <DIR>          .
+11-06-2019  11:34    <DIR>          ..
+11-06-2019  11:34                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   6,785,826,816 bytes free
